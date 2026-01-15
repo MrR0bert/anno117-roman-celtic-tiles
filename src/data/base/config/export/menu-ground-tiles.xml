@@ -1,0 +1,28 @@
+<ModOps>
+    <ModOp Type="addNextSibling" GUID="80581" Path="/Values/ConstructionCategory/BuildingList/Item[Building='95243']">
+        <Item>
+            <Building>1500031000</Building>
+        </Item>
+        <Item>
+            <Building>1500031002</Building>
+        </Item>
+        <Item>
+            <Building>1500031004</Building>
+        </Item>
+        <Item>
+            <Building>1500031006</Building>
+        </Item>
+        <Item>
+            <Building>1500031008</Building>
+        </Item>
+        <Item>
+            <Building>1500031010</Building>
+        </Item>
+        <Item>
+            <Building>1500031012</Building>
+        </Item>
+        <Item>
+            <Building>1500031014</Building>
+        </Item>
+    </ModOp>
+</ModOps>

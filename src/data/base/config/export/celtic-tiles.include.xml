@@ -1,0 +1,121 @@
+<ModOps>
+  <!-- CELTIC TRIQUETRA -->
+  <ModOp Type="addNextSibling" GUID="1500031000">
+    <Asset>
+      <BaseAssetGUID>1500031000</BaseAssetGUID>
+      <Values>
+        <Standard>
+          <GUID>1500031006</GUID>
+          <Name>Celtic Triquetra</Name>
+          <IconFilename>data/ui/icon_content/ornaments/icon_3d_ground_celtic_triquetra.png</IconFilename>
+          <InfoDescription>1500031007</InfoDescription>
+        </Standard>
+        <Text>
+          <OasisId>1500031006</OasisId>
+        </Text>
+        <Polygon>
+          <Path>data/base/graphics/celtic/buildings/ornaments/grounds/mosaic_plazas/mosaic_triquetra/modules_straight/</Path>
+          <Category>Plaza</Category>
+          <IsFeedbackWalkable>1</IsFeedbackWalkable>
+          <AutoFillEnabled>1</AutoFillEnabled>
+        </Polygon>
+      </Values>
+    </Asset>
+  </ModOp>
+
+  <!-- CELTIC TRISKELION -->
+  <ModOp Type="addNextSibling" GUID="1500031000">
+    <Asset>
+      <BaseAssetGUID>1500031000</BaseAssetGUID>
+      <Values>
+        <Standard>
+          <GUID>1500031008</GUID>
+          <Name>Celtic Triquetra</Name>
+          <IconFilename>data/ui/icon_content/ornaments/icon_3d_ground_celtic_triskelion.png</IconFilename>
+          <InfoDescription>1500031009</InfoDescription>
+        </Standard>
+        <Text>
+          <OasisId>1500031008</OasisId>
+        </Text>
+        <Polygon>
+          <Path>data/base/graphics/celtic/buildings/ornaments/grounds/mosaic_plazas/mosaic_triskelion/modules_straight/</Path>
+          <Category>Plaza</Category>
+          <IsFeedbackWalkable>1</IsFeedbackWalkable>
+          <AutoFillEnabled>1</AutoFillEnabled>
+        </Polygon>
+      </Values>
+    </Asset>
+  </ModOp>
+
+  <!-- CELTIC KNOTWEAVE PAVER -->
+  <ModOp Type="addNextSibling" GUID="1500031000">
+    <Asset>
+      <BaseAssetGUID>1500031000</BaseAssetGUID>
+      <Values>
+        <Standard>
+          <GUID>1500031010</GUID>
+          <Name>Celtic Knotweave Paver</Name>
+          <IconFilename>data/ui/icon_content/ornaments/icon_3d_ground_celtic_complex_braid.png</IconFilename>
+          <InfoDescription>1500031011</InfoDescription>
+        </Standard>
+        <Text>
+          <OasisId>1500031010</OasisId>
+        </Text>
+        <Polygon>
+          <Path>data/base/graphics/celtic/buildings/ornaments/grounds/mosaic_plazas/mosaic_complex_braid/modules_straight/</Path>
+          <Category>Plaza</Category>
+          <IsFeedbackWalkable>1</IsFeedbackWalkable>
+          <AutoFillEnabled>1</AutoFillEnabled>
+        </Polygon>
+      </Values>
+    </Asset>
+  </ModOp>
+
+  <!-- CELTIC CROSSBRAID MOSAIC -->
+  <ModOp Type="addNextSibling" GUID="1500031000">
+    <Asset>
+      <BaseAssetGUID>1500031000</BaseAssetGUID>
+      <Values>
+        <Standard>
+          <GUID>1500031012</GUID>
+          <Name>Celtic Crossbraid Mosaic</Name>
+          <IconFilename>data/ui/icon_content/ornaments/icon_3d_ground_celtic_mirrored_braid.png</IconFilename>
+          <InfoDescription>1500031013</InfoDescription>
+        </Standard>
+        <Text>
+          <OasisId>1500031012</OasisId>
+        </Text>
+        <Polygon>
+          <Path>data/base/graphics/celtic/buildings/ornaments/grounds/mosaic_plazas/mosaic_mirrored_braid/modules_straight/</Path>
+          <Category>Plaza</Category>
+          <IsFeedbackWalkable>1</IsFeedbackWalkable>
+          <AutoFillEnabled>1</AutoFillEnabled>
+        </Polygon>
+      </Values>
+    </Asset>
+  </ModOp>
+
+  <!-- CELTIC INTERLACE BRAID -->
+  <ModOp Type="addNextSibling" GUID="1500031000">
+    <Asset>
+      <BaseAssetGUID>1500031000</BaseAssetGUID>
+      <Values>
+        <Standard>
+          <GUID>1500031014</GUID>
+          <Name>Celtic Interlace Braid</Name>
+          <IconFilename>data/ui/icon_content/ornaments/icon_3d_ground_celtic_interlace_knot.png</IconFilename>
+          <InfoDescription>1500031015</InfoDescription>
+        </Standard>
+        <Text>
+          <OasisId>1500031014</OasisId>
+        </Text>
+        <Polygon>
+          <Path>data/base/graphics/celtic/buildings/ornaments/grounds/mosaic_plazas/mosaic_interlace_knot/modules_straight/</Path>
+          <Category>Plaza</Category>
+          <IsFeedbackWalkable>1</IsFeedbackWalkable>
+          <AutoFillEnabled>1</AutoFillEnabled>
+        </Polygon>
+      </Values>
+    </Asset>
+  </ModOp>
+</ModOps>

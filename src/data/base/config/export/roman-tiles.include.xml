@@ -1,0 +1,139 @@
+<ModOps>
+  
+  <!-- ROMAN THEMED ROSET GROUND TILES -->
+  <ModOp Type="addNextSibling" GUID="95243">
+    <Asset>
+      <Template>PolygonObject</Template>
+      <Values>
+        <Standard>
+          <GUID>1500031000</GUID>
+          <Name>Roman Tile Roset</Name>
+          <IconFilename>data/ui/icon_content/ornaments/icon_3d_ground_roset.png</IconFilename>
+          <InfoDescription>1500031001</InfoDescription>
+        </Standard>
+        <Constructable />
+        <Locked>
+          <DefaultLockedState>0</DefaultLockedState>
+        </Locked>
+        <Text>
+          <OasisId>1500031000</OasisId>
+        </Text>
+        <Polygon>
+          <Path>data/base/graphics/roman/buildings/ornaments/grounds/mosaic_plazas/mosaic_roset/modules_straight/</Path>
+          <Category>Plaza</Category>
+          <IsFeedbackWalkable>1</IsFeedbackWalkable>
+          <AutoFillEnabled>1</AutoFillEnabled>
+        </Polygon>
+        <Building>
+          <BuildingCategoryName>-6916356584898827124</BuildingCategoryName>
+          <SecondPartyRelevant>0</SecondPartyRelevant>
+        </Building>
+        <SoundEmitter>
+          <OBJ_DestroyOrKill>
+            <Item>
+              <Sound>141298</Sound>
+            </Item>
+          </OBJ_DestroyOrKill>
+          <OBJ_SelfDestroy>
+            <Item>
+              <Sound>141299</Sound>
+            </Item>
+          </OBJ_SelfDestroy>
+          <ConstructionSounds>
+            <BLD_Build>
+              <Item>
+                <Sound>141296</Sound>
+              </Item>
+            </BLD_Build>
+            <BLD_MoveSuccess>
+              <Item>
+                <Sound>141296</Sound>
+              </Item>
+            </BLD_MoveSuccess>
+          </ConstructionSounds>
+          <OBJ_RuinedOwned>
+            <Item>
+              <Sound>141299</Sound>
+            </Item>
+          </OBJ_RuinedOwned>
+          <OBJ_RuinedNotOwned>
+            <Item>
+              <Sound>141297</Sound>
+            </Item>
+          </OBJ_RuinedNotOwned>
+          <OBJ_RuinedByCombat>
+            <Item>
+              <Sound>141297</Sound>
+            </Item>
+          </OBJ_RuinedByCombat>
+          <MultiplayerBuildingSounds>
+            <BLD_MP_Build>
+              <Item>
+                <Sound>141295</Sound>
+              </Item>
+            </BLD_MP_Build>
+            <BLD_MP_MoveSuccess>
+              <Item>
+                <Sound>141295</Sound>
+              </Item>
+            </BLD_MP_MoveSuccess>
+            <BLD_MP_Destroy>
+              <Item>
+                <Sound>141297</Sound>
+              </Item>
+            </BLD_MP_Destroy>
+          </MultiplayerBuildingSounds>
+        </SoundEmitter>
+        <Cost />
+      </Values>
+    </Asset>
+  </ModOp>
+
+  <!-- ROMAN THEMED INTERLOCKING DIAMOND PATTERN GROUND TILES -->
+  <ModOp Type="addNextSibling" GUID="1500031000">
+    <Asset>
+      <BaseAssetGUID>1500031000</BaseAssetGUID>
+      <Values>
+        <Standard>
+          <GUID>1500031002</GUID>
+          <Name>Roman Tile Interlocking Diamond</Name>
+          <IconFilename>data/ui/icon_content/ornaments/icon_3d_ground_interlocking_diamond.png</IconFilename>
+          <InfoDescription>1500031003</InfoDescription>
+        </Standard>
+        <Text>
+          <OasisId>1500031002</OasisId>
+        </Text>
+        <Polygon>
+          <Path>data/base/graphics/roman/buildings/ornaments/grounds/mosaic_plazas/mosaic_interlocking_diamond/modules_straight/</Path>
+          <Category>Plaza</Category>
+          <IsFeedbackWalkable>1</IsFeedbackWalkable>
+          <AutoFillEnabled>1</AutoFillEnabled>
+        </Polygon>
+      </Values>
+    </Asset>
+  </ModOp>
+
+  <!-- ROMAN SPIRAL PATTERN GROUND TILES -->
+  <ModOp Type="addNextSibling" GUID="1500031000">
+    <Asset>
+      <BaseAssetGUID>1500031000</BaseAssetGUID>
+      <Values>
+        <Standard>
+          <GUID>1500031004</GUID>
+          <Name>Roman Tile Spiral</Name>
+          <IconFilename>data/ui/icon_content/ornaments/icon_3d_ground_sprial.png</IconFilename>
+          <InfoDescription>1500031005</InfoDescription>
+        </Standard>
+        <Text>
+          <OasisId>1500031004</OasisId>
+        </Text>
+        <Polygon>
+          <Path>data/base/graphics/roman/buildings/ornaments/grounds/mosaic_plazas/mosaic_spiral/modules_straight/</Path>
+          <Category>Plaza</Category>
+          <IsFeedbackWalkable>1</IsFeedbackWalkable>
+          <AutoFillEnabled>1</AutoFillEnabled>
+        </Polygon>
+      </Values>
+    </Asset>
+  </ModOp>
+</ModOps>

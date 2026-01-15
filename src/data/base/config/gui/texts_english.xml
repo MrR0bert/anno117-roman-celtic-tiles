@@ -1,0 +1,70 @@
+<ModOps>
+  <ModOp Add="/TextExport/Texts[1]">
+    <Text>
+      <Text>Roset Flooring</Text>
+      <LineId>1500031000</LineId>
+    </Text>
+    <Text>
+      <Text>A roset shaped ROMAN floor tile for Anno 117</Text>
+      <LineId>1500031001</LineId>
+    </Text>
+    <Text>
+      <Text>Interlocking Diamond</Text>
+      <LineId>1500031002</LineId>
+    </Text>
+    <Text>
+      <Text>A diamond shaped ROMAN floor tile for Anno 117</Text>
+      <LineId>1500031003</LineId>
+    </Text>
+    <Text>
+      <Text>Spiral Floor tiles</Text>
+      <LineId>1500031004</LineId>
+    </Text>
+    <Text>
+      <Text>Sprial floor tiling</Text>
+      <LineId>1500031005</LineId>
+    </Text>
+
+    <!-- Celtic themed -->
+    <Text>
+      <Text>Celtic Triquetra</Text>
+      <LineId>1500031006</LineId>
+    </Text>
+    <Text>
+      <Text>Beautiful celtic inspired triquetra</Text>
+      <LineId>1500031007</LineId>
+    </Text>
+    <Text>
+      <Text>Celtic Triskelion</Text>
+      <LineId>1500031008</LineId>
+    </Text>
+    <Text>
+      <Text>Beautiful celtic inspired triskelion</Text>
+      <LineId>1500031009</LineId>
+    </Text>
+    <Text>
+      <Text>Celtic Knotweave Paver</Text>
+      <LineId>1500031010</LineId>
+    </Text>
+    <Text>
+      <Text>Celtic Knotweave Paver tiles</Text>
+      <LineId>1500031011</LineId>
+    </Text>
+    <Text>
+      <Text>Celtic Crossbraid Mosaic</Text>
+      <LineId>1500031012</LineId>
+    </Text>
+    <Text>
+      <Text>Celtic Crossbraid Mosaic tiles</Text>
+      <LineId>1500031013</LineId>
+    </Text>
+    <Text>
+      <Text>Celtic Interlace Braid</Text>
+      <LineId>1500031014</LineId>
+    </Text>
+    <Text>
+      <Text>Celtic braids interlaced in a complex pattern</Text>
+      <LineId>1500031015</LineId>
+    </Text>
+  </ModOp>
+</ModOps>

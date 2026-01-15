@@ -1,0 +1,5 @@
+<ModOps>
+  <Include File="menu-ground-tiles.xml" />
+  <Include File="roman-tiles.include.xml" />
+  <Include File="celtic-tiles.include.xml" />
+</ModOps>
